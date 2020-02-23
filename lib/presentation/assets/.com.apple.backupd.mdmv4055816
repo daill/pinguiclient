@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DateStarted</key>
+	<date>2019-10-25T18:59:25Z</date>
+	<key>FileID</key>
+	<integer>4055816</integer>
+	<key>NameSpaceID</key>
+	<integer>1436682728</integer>
+	<key>NewPath</key>
+	<string>Users/daill/Devel/workspaces-mobile/pinguiclient/lib/presentation/assets/2.0x</string>
+	<key>SourcePath</key>
+	<string>Users/daill/Devel/workspaces-mobile/pinguiclient/lib/assets/2.0x</string>
+</dict>
+</plist>
